@@ -1,2 +1,2 @@
-# Frontend-VMRA
-frontend code VMRA for LLM
+# VMRAcode
+VMRA python code
